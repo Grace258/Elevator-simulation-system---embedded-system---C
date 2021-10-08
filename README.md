@@ -1,6 +1,7 @@
 # Elevator-simulation-system---embedded-system---C
   
-Environment: uVision5
+Environment: uVision5  
+Language: C  
   
 Assignment description:  
 In class, we have seen how petrinets can be used to expand DFAs to concurrent systems. We  
